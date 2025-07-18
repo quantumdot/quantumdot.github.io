@@ -2,17 +2,17 @@ name: Build Site
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master, patch*, release*]
+    branches: [main]
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      ARTIFACT_NAME: "docs-build"
-      ARTIFACT_DEST: "docs-build.zip"
+      ARTIFACT_NAME: "site-build"
+      ARTIFACT_DEST: "site-build.zip"
       TARGET: "./source/.vitepress/dist"
 
     steps:
