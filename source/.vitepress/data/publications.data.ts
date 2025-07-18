@@ -28,10 +28,7 @@ export interface PublicationsStats {
 declare const data: PublicationsData
 export { data }
 
-const elsevier_config = {
-    apiKey: 'ca048ecc1cd63108d5e21fdf636d9022',
-    authorId: '56665377400',
-}
+
 
 export default {
     watch: ['./data/publications.yml'],
@@ -64,7 +61,12 @@ export default {
             }
         });
 
-        await axios.get(`https://api.elsevier.com/content/author/author_id/${elsevier_config.authorId}`, { params: { apiKey: elsevier_config.apiKey, view: 'metrics' } })
+
+        const params = {
+            apiKey: process.env.VITE_ELSEVIER_API_TOKEN,
+            view: 'metrics',
+        }
+        await axios.get(`https://api.elsevier.com/content/author/author_id/${process.env.VITE_ELSEVIER_AUTHOR_ID}`, { params })
             .then(response => {
                 const the_stats = response.data["author-retrieval-response"][0];
                 publications.stats.document_count = the_stats.coredata["document-count"];
@@ -74,7 +76,7 @@ export default {
                 publications.stats.coauthor_count = the_stats["coauthor-count"];
             })
             .catch(error => {
-                console.error('Error fetching Elsevier data:', error);
+                console.error('Error fetching Elsevier data:', /*error*/);
             });
         return publications;
     }

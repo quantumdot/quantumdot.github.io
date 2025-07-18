@@ -20,7 +20,8 @@ export default defineConfig({
             { icon: 'orcid', link: 'https://orcid.org/0000-0003-2828-452X' },
             { icon: 'linkedin', link: 'https://www.linkedin.com/in/' },
             { icon: 'gmail', link: 'mailto:jkthackray@gmail.com' },
-        ]
+        ],
+        
     },
     markdown: {
         externalLinks: {
