@@ -1,0 +1,63 @@
+name: Build Site
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master, patch*, release*]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      ARTIFACT_NAME: "docs-build"
+      ARTIFACT_DEST: "docs-build.zip"
+      TARGET: "./source/.vitepress/dist"
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Node v22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Repo
+        run: yarn install --non-interactive --network-timeout 100000
+        
+      - name: Build Site
+        run: yarn run build
+
+      - name: Zip package
+        run: 7z a ${{ env.ARTIFACT_DEST }} ${{ env.TARGET }}/*
+  
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.ARTIFACT_NAME }}
+          path: ${{ env.ARTIFACT_DEST }}
+
+      - name: Init new repo in dist folder and commit generated files
+      #  if: ${{ endsWith(github.ref, 'master') }}
+        run: |
+          cd ${{ env.TARGET }}
+          git init
+          git add -A
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m 'deploy ${{ github.ref }}'
+          cd -
+
+      - name: Force push to destination branch
+      #  if: ${{ endsWith(github.ref, 'master') }}
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # change as neccessary
+          branch: gh-pages
+          force: true
+          directory: ${{ env.TARGET }}

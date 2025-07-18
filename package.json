@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "axios": "^1.10.0",
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.17",
+    "yaml": "^2.8.0"
+  },
+  "scripts": {
+    "dev": "vitepress dev source",
+    "build": "vitepress build source",
+    "preview": "vitepress preview source"
+  }
+}
