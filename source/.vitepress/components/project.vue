@@ -16,7 +16,6 @@
             <div class="url">
                 <a :href="project.url" target="_blank">{{ project.url }}</a>
             </div>
-            <div class="time">{{ project.time }}</div>
             <div class="details">{{ project.details }}</div>
             <div class="technologies" v-if="technologies">
                 <span v-for="(tech, index) in technologies" :key="index" class="tech">
@@ -43,7 +42,6 @@ function is_video(url: string): boolean {
     const videoExtensions = ['.mp4', '.webm'];
     return videoExtensions.some(ext => url.endsWith(ext));
 }
-
 </script>
 
 <style scoped>

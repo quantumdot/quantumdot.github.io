@@ -62,7 +62,7 @@ export default {
         });
 
 
-        const params = {
+        /*const params = {
             apiKey: process.env.VITE_ELSEVIER_API_TOKEN,
             view: 'metrics',
         }
@@ -76,8 +76,8 @@ export default {
                 publications.stats.coauthor_count = the_stats["coauthor-count"];
             })
             .catch(error => {
-                console.error('Error fetching Elsevier data:', /*error*/);
-            });
+                console.error('Error fetching Elsevier data:', error);
+            });*/
         return publications;
     }
 };

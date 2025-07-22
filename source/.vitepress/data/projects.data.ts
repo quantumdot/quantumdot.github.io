@@ -4,10 +4,9 @@ import YAML from 'yaml';
 export interface Project {
     title: string;
     url: string;
-    image?: string;
-    time: string;
+    image: string;
     details: string;
-    technologies?: string;
+    technologies: string;
 }
 
 declare const data: Project[]
