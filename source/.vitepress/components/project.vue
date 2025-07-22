@@ -47,15 +47,17 @@ function is_video(url: string): boolean {
 <style scoped>
 .project {
     margin-bottom: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 .project-image {
     max-width: 200px;
     margin-bottom: 10px;
-    float: left;
     margin-right: 20px;
 }
 .project-info {
-
+    max-width: 540px;
 }
 .title {
     font-size: 16px;
@@ -94,14 +96,12 @@ function is_video(url: string): boolean {
     font-size: 12px;
 }
 @media (max-width: 600px) {
-    .project-image {
-        float: none;
-        display: block;
-        margin: 0 auto;
+    .project {
+        flex-direction: column;
+        align-items: center;
     }
+
     .project-info {
-        float: none;
-        margin: 0 auto;
         text-align: center;
         margin-top:10px;
     }
