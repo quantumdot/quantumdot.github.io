@@ -40,6 +40,8 @@ conducting wet-lab experiments to validate my findings and ensure their biologic
         }
     },
     head: [
-        ['link', { rel: 'icon', href: '/images/favicon/favicon.ico' }]
+        ['link', { rel: 'icon', href: '/images/favicon/favicon.ico' }],  // favicon
+        ['script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-7DEQZY5K6S', async: 'true' }],  // google analytics
+        ['script', {}, "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-7DEQZY5K6S');"]  // google analytics
     ],
 })
