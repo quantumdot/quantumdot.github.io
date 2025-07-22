@@ -5,7 +5,7 @@
     Overhaul user interface and device control software for the Arm, a robotic device used to automate and standardize pre-clinical pain testing in rodents.
     Synchronizing high-speed videography, streaming force sensor measurement and refinement with Kalman filters. Improve user input via gamepads and add additional user input strategies.
   technologies: | 
-    Python, OpenCV, Tkinter, Spinnaker, Zaber, PySerial, PyKalman, PyInstaller
+    Python, OpenCV, Tkinter, Spinnaker, Zaber, PySerial, PyKalman, PyInstaller, High-speed Videography, Force Measurement, Robotics, Closed-loop Systems, User Interface Design
 
 - role: Laboratory Researcher II
   time: September 2022 - Present
@@ -18,7 +18,7 @@
     Development of pipelines to analyze high-throughput sequencing data such as ChIP-seq, RNA-seq, etc. Design and execution of validation assays for CNV and variant analysis in human cohorts.
     Design and validation of CRISPR-engineered mice harboring mutations found in human disease populations.
   technologies: | 
-    Python, PyTorch, Tensorflow, Signal Processing, Fiber Photometry, Optogenetics, EMG, OpenCV, DeepLabCut, Scikit-learn, Pandas, NumPy, SciPy, Jupyter Notebooks, PRIMER3
+    Signal Processing, Fiber Photometry, Optogenetics, Operant Conditioning, EMG, High-speed Videography, Multi-view/3D Videography, Pose-Estimation, Action-Recognition, Ethology, ChIP-seq, RNA-seq, CNV Analysis, Machine Learning, Deep Learning, Computational Pipelines, Data Management
 
 - role: Scientific Programmer (Consulting)
   time: July 2019 - Present
@@ -27,7 +27,7 @@
     Designed and implemented a cloud-based software platform for calling results of clinical molecular testing assays, technician review, and integration with the Laboratory Information System.
     Developed assays covering urinary tract infections, nail fungal infections, antibiotic resistance, and combined assays. Provide ongoing support.
   technologies: | 
-    TypeScript, Webpack, Google App Script, Clasp, GoogleSheets, Jest
+    TypeScript, Webpack, Google App Script, Clasp, GoogleSheets, Jest, qPCR, Open Array, Laboratory Information System (LIS), Clinical Molecular Testing, Cloud Computing
 
 - role: Laboratory Researcher III
   time: May 2011 - September 2022
@@ -37,7 +37,7 @@
     Developed novel techniques for 3D-FISH and laser-induced DNA damage in live cells. Designed and implemented software for high-throughput, semi-supervised, distributed image analysis.
     Implemented machine learning based methods for analysis of animal model behavioral assays.
   technologies: |
-    Confocal Microscopy, Live-Cell Imaging, 3D-FISH, High-Throughput Imaging, ChIP-seq, RNA-seq, C#, Workflow Foundation, WCF, WPF, ImageJ, Matlab, Python, Cell Culture, CRISPR/Cas9, 
+    Confocal Microscopy, Widefield Microscopy, Live-Cell Imaging, 3D-FISH, Immunostaining, High-Throughput Imaging, Computational Image Analysis, ChIP-seq, RNA-seq, Sequencing Library Prep, RT-PCR, Western Blotting, Cloning, Viral Transduction, Computational Pipelines, Cell Culture, CRISPR/Cas9, Data Management
 
 - role: Application Developer
   time: March 2010 - January 2012
@@ -73,3 +73,5 @@
   details: |
     Setup and monitor surgical/dental procedures daily, ensuring smooth/uneventful patient recoveries. Communication with clients.
     Administered vaccines, microchips, and other medications and collected lab specimens (radiographs, blood draw, urine, etc) and prepared for external lab analysis or performed in-house lab analysis.
+  technologies: |
+    Veterinary Medicine, Surgical Assistance, Dental Procedures, Client Communication, Specimen Collection, Laboratory Analysis, Anesthesia Monitoring, Film Development, Radiography
