@@ -7,7 +7,7 @@
     </div>
     <div class="see-more">
         See more projects on my
-        <a href="https://github.com/quantumdot">
+        <a href="https://github.com/quantumdot" target="_blank" ref="noopener">
             <span :class="`vpi-social-github link-icon`" :style="`--icon: url('https://api.iconify.design/simple-icons/github.svg');`"></span>
             <span class="link-text">GitHub Profile</span>
         </a>.
