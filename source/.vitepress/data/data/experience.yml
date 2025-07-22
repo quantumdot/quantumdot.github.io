@@ -5,7 +5,7 @@
     Overhaul user interface and device control software for the Arm, a robotic device used to automate and standardize pre-clinical pain testing in rodents.
     Synchronizing high-speed videography, streaming force sensor measurement and refinement with Kalman filters. Improve user input via gamepads and add additional user input strategies.
   technologies: | 
-    Python, OpenCV, Tkinter, Spinnaker, Zaber, PySerial, PyKalmanm, PyInstaller
+    Python, OpenCV, Tkinter, Spinnaker, Zaber, PySerial, PyKalman, PyInstaller
 
 - role: Laboratory Researcher II
   time: September 2022 - Present
