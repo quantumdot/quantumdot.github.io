@@ -21,7 +21,7 @@
                     <li>Genetics and Genomics</li>
                     <li>Neuroscience and Ethology</li>
                     <li>Bioinformatics and Machine Learning</li>
-                    <li>Solving Problems and Building useful things</li>
+                    <li>Solving Problems and Building Useful Things</li>
                 </ul>
             </div>
         </div>
