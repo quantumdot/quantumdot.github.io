@@ -122,6 +122,7 @@ h3 {
     .title-container {
         margin: 0 auto;
         text-align: center;
+        margin-top:20px;
     }
     .interests ul {
         list-style-type: none;
