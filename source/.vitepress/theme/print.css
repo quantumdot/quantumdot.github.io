@@ -1,0 +1,7 @@
+@media print {
+
+    .VPNav, .VPLocalNav {
+        display: none;
+    }
+
+}

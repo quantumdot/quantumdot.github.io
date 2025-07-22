@@ -64,16 +64,10 @@ published:
     journal: Nature Immunology
     date: October 18, 2024
     doi: 10.1038/s41590-024-01995-7
-    
-  - authors: A Gamez-Garcia, A Bueno-Costa, E Alari-Pahissa, JK Thackray, M Espinosa-Alcantud, C Ray, C Berenguer, P Kumari, JJ Bech, T Braun, A Ianni, JA Tischfield, JL Sardina, L Serrano, M Esteller, C De La Torre, M Sigvardsson, BN Vazquez, A Vaquero
-    title: A SIRT7-dependent acetylation switch regulates early B-cell differentiation and lineage commitment through PAX5
-    journal: Nature Immunology
-    date: October 18, 2024
-    doi: 10.1038/s41590-024-01995-7
 
   - authors: C Nasello, LA Poppi, J Wu, TF Kowalski, JK Thackray, R Wang, A Persaud, M Mahboob, S Lin, R Spaseska, CK Johnson, D Gordon, F Tissir, GA Heiman, JA Tischfield, M Bocarsly, MA Tischfield
     title: Human mutations in high-confidence Tourette disorder genes affect sensorimotor behavior, reward learning, and striatal dopamine in mice
-    journal: PNAS
+    journal: Proceedings of the National Academy of Sciences
     date: April 29, 2024
     doi: 10.1073/pnas.2307156121
     related:
@@ -97,7 +91,7 @@ published:
 
   - authors: BN Vazquez, I Fernández-Duran, Y Hernandez, S Tarighi, JK Thackray, M Espinosa-Alcantud, P Kumari, A Ianni, L Cesaire, T Braun, M Esteller, J Tischfield, A Vaquero, L Serrano
     title: SIRT7 and p53 interaction in embryonic development and tumorigenesis
-    journal: Front Cell Dev Biol
+    journal: Frontiers in Cell Developmental Biology
     date: January 3, 2024
     doi: 10.3389/fcell.2023.1281730
 
@@ -116,7 +110,7 @@ published:
 
   - authors: MJ Matrongolo, PS Ang, J Wu, A Jain, JK Thackray, A Reddy, CC Sung, G Barbet, YK Hong, and MA Tischfield
     title: Piezo1 agonist restores meningeal lymphatic vessels, drainage, and brain-CSF perfusion in craniosynostosis and aged mice
-    journal: JCI
+    journal: Journal of Clinical Investigation
     date: November 2, 2023
     doi: 10.1172/JCI171468
 
@@ -144,7 +138,7 @@ published:
     date: July 15, 2021
 
   - authors: X Cao, Y Zhang, M Abdulkadir, L Deng, TV Fernandez, B Garcia-Delgar, J Hagstrøm, PJ Hoekstra, RA King, J Koesterich, S Kuperman, A Morer, C Nasello, KJ Plessen, JK Thackray, L Zhou, Tourette International Collaborative Genetics Study (TIC Genetics), A Dietrich, JA Tischfield, GA Heiman, J Xing
-    title: Whole-exome sequencing identifies genes associated with Tourette’s Disorder in multiplex families
+    title: Whole-exome sequencing identifies genes associated with Tourette's Disorder in multiplex families
     journal: Molecular Psychiatry
     date: April 9, 2021
     doi: 10.1038/s41380-021-01094-1
@@ -192,14 +186,14 @@ published:
     date: February 2017
     doi: 10.1080/19491034.2016.1264552
 
-  - authors: BN Vazquez, JK Thackray, NG Simonet, N Kane‐Goldsmith, P Martinez‐Redondo, T Nguyen, S Bunting, A Vaquero, JA Tischfield, L Serrano
-    title: SIRT7 promotes genome integrity and modulates non‐homologous end joining DNA repair
+  - authors: BN Vazquez, JK Thackray, NG Simonet, N Kane-Goldsmith, P Martinez-Redondo, T Nguyen, S Bunting, A Vaquero, JA Tischfield, L Serrano
+    title: SIRT7 promotes genome integrity and modulates non-homologous end joining DNA repair
     journal: The EMBO Journal
     date: May 2016
     doi: 10.15252/embj.201593499
 
   - authors: S Chahar, V Gandhi, S Yu, K Desai, R Cowper-Sal, Y Kim, AO Perekatt, N Kumar, JK Thackray, A Musolf, N Kumar, A Hoffman, D Londono, BN Vazquez, L Serrano, H Shin, M Lupien, N Gao, MP Verzi
     title: Chromatin profiling reveals regulatory network shifts and a protective role for hepatocyte nuclear factor 4α during colitis
-    journal: Molecular and cellular biology
+    journal: Molecular and Cellular Biology
     date: September 2014
     doi: 10.1128/MCB.00349-14

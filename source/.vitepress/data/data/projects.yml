@@ -1,0 +1,23 @@
+- title: "MoSeq-Reports: Interactive interrogation of MoSeq models"
+  url: https://github.com/tischfieldlab/moseq-reports
+  image: /images/moseq-reports.mp4
+  details: A no-code platform for interactive MoSeq analysis that democratizes access to sophisticated behavioral analytics while maintaining full analytical power.
+  technologies: Electron, Typescript, Vue, Vite, Pinia, D3.js, Axios
+
+- title: "Fiber Photometry Analysis: `fptools`"
+  url: https://github.com/tischfieldlab/fptools
+  image: /images/fptools.png
+  details: A Python package for analyzing fiber photometry and behavior data, including tools for signal processing and visualization.
+  technologies: Python, NumPy, SciPy, Seaborn, Pandas, TDT, Med-Associates
+
+- title: moseq2-detectron-extract
+  url: https://github.com/tischfieldlab/moseq2-detectron-extract
+  image: /images/Editor-ezgif.com-video-cutter.mp4
+  details: A Python package for extracting and analyzing mouse behavior from videos using Detectron2, designed to work with the MoSeq2 framework.
+  technologies: Python, PyTorch, Detectron2, OpenCV, NumPy, SciPy, Pandas, Matplotlib, PyKalman, stats-models, Image Augmentation, FFMPEG
+
+- title: Front-Tracking-Toolkit
+  url: https://github.com/tischfieldlab/front_tracking_toolkit
+  image: /images/lines_movie.webm
+  details: Toolkit for tracking fluorescent tracers during transcranial imagining.
+  technologies: Python, NumPy, SciPy, OpenCV, Matplotlib, Pandas, Image Registration
