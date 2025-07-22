@@ -2,7 +2,7 @@
     <h2 id="publications" class="section-header">Publications</h2>
     <ol>
     <div id="pubs-in-progress" v-if="data.in_progress.length > 0">
-        <h3>Currently under peer-review</h3>
+        <h3>Upcoming Manuscripts</h3>
         <template v-for="pub in data.in_progress">
             <li>
                 <publication :pub="pub" :highlight="data.highlight" />
