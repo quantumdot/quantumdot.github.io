@@ -1,0 +1,148 @@
+- title: Deep Learning / Machine Learning
+  skills:
+    - Signal Processing
+    - Computer Vision
+    - Pose Estimation
+    - Action Recognition
+    - Linear Models
+    - Kalman filters
+    - Dimensionality Reduction
+    - Embeddings
+    - PyTorch
+    - TensorFlow
+    - scikit-learn
+    - stats-models
+    - Dask
+    - Jax
+    - DeepLabCut
+    - SLEAP
+    - Detectron
+    - Anipose
+    - MoSeq
+    - A/B-SOID
+
+- title: Mentorship and Leadership
+  skills:
+    - Mentored and supervised several dozen undergraduate, masters, PhD candidates, and staff, many later attending prestigious institutions (MIT, Harvard, Georgia Tech), or securing positions at leading industry firms (AMD, Amazon, Verizon, Johnson & Johnson, Honeywell)
+
+- title: Programming Languages
+  skills:
+    - Python
+    - R
+    - Matlab
+    - PHP
+    - Java
+    - Perl
+    - JavaScript/Typescript
+    - C
+    - C#
+    - bash
+    - VB[A]
+    - VB.NET
+    - SQL
+    - HTML
+    - XML
+    - CSS
+    - DOM
+    - XAML
+    - RegEx
+    - .Net (Core, WPF, Silverlight, WF, WCF)
+    - Workflows, Pipelines, CI/CD
+    - Travis
+    - Github Actions
+
+- title: Imaging and Microscopy
+  skills:
+    - IHC
+    - ICC
+    - FISH
+    - Widefield Microscopy
+    - Epifluorescence Microscopy
+    - Confocal Microscopy
+    - Live cell imaging (FRAP, laser-induced DNA-damage)
+    - advanced 3D and high-throughput computational image analysis.
+
+- title: Bioinformatics Software
+  skills:
+    - Samtools
+    - Picard
+    - GATK
+    - Bowtie
+    - BWA
+    - HISAT
+    - Tuxedo
+    - SNPSplit
+    - GSEA
+    - PRIMER3
+    - BLAST
+    - MACS
+    - WEKA
+    - BLAT
+    - FASTX
+    - IGV
+    - Bedtools
+    - deeptools
+    - cistrome
+    - galaxy
+    - Homer
+    - SnapGene
+    - chromHMM
+    - DAVID/GO
+
+- title: Cell Culture
+  skills:
+    - General cell culture and sterile technique
+    - biosafety level I & II experience
+    - transfection
+    - retrovirus and lentivirus production
+    - isolation and culture of mouse tissues (MEFs, Fibroblasts, NSCs, B and T cells)
+    - human cell lines.
+
+- title: Other Scientific Software
+  skills:
+    - Synapse (TDT)
+    - Imaris (Bitplane)
+    - ImageJ (NIH)
+    - Zen (Zeiss)
+    - MarkerView (AB/SCIEX)
+    - Lipid View (AB/SCIEX)
+    - Analyst (AB/SCIEX)
+    - openCV/EmguCV
+
+- title: General Laboratory
+  skills:
+    - Laboratory Automation and Robotic Liquid Handling Experience
+    - Cloning
+    - Plasmids
+    - Molecular Extractions
+    - Electrophoresis
+    - Chromatography
+    - Mass Spec
+    - rt-PCR
+    - Blotting
+    - sequencing library preparation
+    - rodent work
+
+- title: General Software
+  skills:
+    - Adobe Creative Suite
+    - Microsoft Office Suite
+    - Visual Studio
+    - Visual Studio Code
+    - Eclipse
+    - Apache
+    - IIS
+    - LMOD
+    - SLURM
+    - SSH
+    - FTP
+    - SVN/CVS/Git
+    - ffmpeg
+
+- title: Operating Systems
+  skills:
+    - Microsoft Windows
+    - Apple macOS
+    - Unix/Linux (various flavors)
+    - 10 years experience working in HPC environments, including the SLURM workload manager.
+
