@@ -62,5 +62,9 @@ const technologies = computed(() => {
     border-radius: 8px;
     font-size: 12px;
 }
-
+@media (max-width: 600px) {
+    .time {
+        float: none;
+    }
+}
 </style>

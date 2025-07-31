@@ -37,4 +37,9 @@ const props = defineProps<{
     float: right;
     color: var(--vp-c-brand-1);
 }
+@media (max-width: 600px) {
+    .time {
+        float: none;
+    }
+}
 </style>

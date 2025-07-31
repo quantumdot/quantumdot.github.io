@@ -45,5 +45,11 @@ const props = defineProps<{
     font-size: 14px;
 }
 
+@media (max-width: 600px) {
+    .time {
+        float: none;
+    }
+}
+
 
 </style>
