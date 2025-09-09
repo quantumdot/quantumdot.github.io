@@ -7,7 +7,6 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue';
 import type { Honor } from '../data/honors.data';
 
 const props = defineProps<{
@@ -26,7 +25,6 @@ const props = defineProps<{
     font-size: 16px;
     color: var(--fg-color);
     font-weight: bold;
-    
 }
 .institution {
     color: var(--vp-c-brand-1);
