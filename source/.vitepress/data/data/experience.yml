@@ -13,8 +13,11 @@
   time: January 2025 - Present
   company: Tactorum, Inc.
   details: |
-    Overhaul user interface and device control software for the Arm, a robotic device used to automate and standardize pre-clinical pain testing in rodents.
-    Synchronizing high-speed videography, streaming force sensor measurement and refinement with Kalman filters. Improve user input via gamepads and add additional user input strategies.
+    Developed user interface and device control software for the <a href="https://tactorum.com/" target="_blank">Arm</a>, a robotic device used to automate and standardize pre-clinical pain testing in rodents.
+    Synchronizing high-speed videography, streaming and refinement of force sensor measurements. Improvement of user input via gamepads and additional user input strategies.
+    Implementation of Automated Aiming using computer vision. Creation of frameworks for data analysis and integration with physiological recordings such as EMG and fiber photometry.
+    Ongoing support and development of new features.
+     
   technologies: | 
     Python, OpenCV, WPF, Tkinter, Spinnaker, Zaber, PySerial, PyKalman, PyInstaller, High-speed Videography, Force Measurement, Robotics, Closed-loop Systems, User Interface Design
 
