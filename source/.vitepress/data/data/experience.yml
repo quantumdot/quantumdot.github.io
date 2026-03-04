@@ -1,4 +1,15 @@
-- role: Scientific Programmer (Consulting)
+- role: Data Engineer
+  time: November 2025 - Present
+  company: Rutgers University
+  details: |
+    At the Clinical and Research Data Warehouse (CRDW) within the Office of Advanced Research Computing, developed biomedical and clinical informatics research infrastructure, including data pipelines integrating multiple clinical research sources while ensuring data quality and 
+    system optimization. Provided education and training on advanced computing to the university community. Implemented OARC data science resources and compliant protected environments 
+    for sensitive medical data (HIPAA, FISMA, NIST 800-171). Collaborated with Enterprise Infrastructure teams and external partners to advance computational science capabilities and 
+    position the institution as a leader in research technologies.
+  technologies: | 
+    SQL, Python, ETL, Data Warehousing, Data Integration, Data Quality, Data Governance, HIPAA, FISMA, NIST 800-171
+
+- role: Lead Scientific Programmer (Consulting)
   time: January 2025 - Present
   company: Tactorum, Inc.
   details: |
@@ -8,7 +19,7 @@
     Python, OpenCV, Tkinter, Spinnaker, Zaber, PySerial, PyKalman, PyInstaller, High-speed Videography, Force Measurement, Robotics, Closed-loop Systems, User Interface Design
 
 - role: Laboratory Researcher II
-  time: September 2022 - Present
+  time: September 2022 - October 2025
   company: Rutgers University
   details: |
     Working in the Human Genetics Institute of New Jersey, the Department of Genetics, the WM Keck Center for Collaborative Neuroscience, and the Department of Cell Biology and Neuroscience.
@@ -33,7 +44,7 @@
   time: May 2011 - September 2022
   company: Rutgers University
   details: |
-    Established techniques in the lab for ChIP-seq, RNA-seq and other sequencing experiments, and implemented corresponding analytical procedures according to current best-practices.
+    Working in the Human Genetics Institute of New Jersey and the Department of Genetics, established techniques in the lab for ChIP-seq, RNA-seq and other sequencing experiments, and implemented corresponding analytical procedures according to current best-practices.
     Developed novel techniques for 3D-FISH and laser-induced DNA damage in live cells. Designed and implemented software for high-throughput, semi-supervised, distributed image analysis.
     Implemented machine learning based methods for analysis of animal model behavioral assays.
   technologies: |
