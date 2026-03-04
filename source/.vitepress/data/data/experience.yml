@@ -2,12 +2,12 @@
   time: November 2025 - Present
   company: Rutgers University
   details: |
-    At the Clinical and Research Data Warehouse (CRDW) within the Office of Advanced Research Computing, developed biomedical and clinical informatics research infrastructure, including data pipelines integrating multiple clinical research sources while ensuring data quality and 
+    At the Clinical and Research Data Warehouse (CRDW) within the Office of Advanced Research Computing (OARC), developed biomedical and clinical informatics research infrastructure, including data pipelines integrating multiple clinical research sources while ensuring data quality and 
     system optimization. Provided education and training on advanced computing to the university community. Implemented OARC data science resources and compliant protected environments 
     for sensitive medical data (HIPAA, FISMA, NIST 800-171). Collaborated with Enterprise Infrastructure teams and external partners to advance computational science capabilities and 
     position the institution as a leader in research technologies.
   technologies: | 
-    SQL, Python, ETL, Data Warehousing, Data Integration, Data Quality, Data Governance, HIPAA, FISMA, NIST 800-171
+    SQL, Python, HPC, ETL, Citrix, Data Warehousing, Data Integration, Data Quality, Data Governance, HIPAA, FISMA, NIST 800-171
 
 - role: Lead Scientific Programmer (Consulting)
   time: January 2025 - Present
@@ -16,7 +16,7 @@
     Overhaul user interface and device control software for the Arm, a robotic device used to automate and standardize pre-clinical pain testing in rodents.
     Synchronizing high-speed videography, streaming force sensor measurement and refinement with Kalman filters. Improve user input via gamepads and add additional user input strategies.
   technologies: | 
-    Python, OpenCV, Tkinter, Spinnaker, Zaber, PySerial, PyKalman, PyInstaller, High-speed Videography, Force Measurement, Robotics, Closed-loop Systems, User Interface Design
+    Python, OpenCV, WPF, Tkinter, Spinnaker, Zaber, PySerial, PyKalman, PyInstaller, High-speed Videography, Force Measurement, Robotics, Closed-loop Systems, User Interface Design
 
 - role: Laboratory Researcher II
   time: September 2022 - October 2025
