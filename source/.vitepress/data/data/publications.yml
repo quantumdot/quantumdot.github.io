@@ -7,15 +7,47 @@ in_progress:
     title: "MoSeq-Reports: An Open-Source Platform for Interactive Analysis of MoSeq Models"
     journal: In preparation for submission to eNeuro
 
+  - authors: NG Simonet, JK Thackray, B Kesner, F Serra, M Espinosa-Alcantud, A Lappala, A Guitart, L Marin, U Weissbein, D Wang, J Castelló, L Rovirosa, L Serrano, BN Vazquez, A Ruiz-Herrera, B Payer, BM Javierre, A Vaquero, JT Lee
+    title: Sirtuin 7 regulates Xa-hyperactivation to balance the X-chromosome against the genome
+    journal: Second round of review at Nature
+    date: February 2026
+
+  - authors: J Eisdorfer, S Lin, JK Thackray, T Theis, A Vivinetto, O Oputa, H Nacht, A Martinez, M Tschang, M Mahmood, A Tucker, C Ruven, S Pusuloori, L Zymoro, M Phu, D Birch, S Kumar, M Schachner, V Sahni, P Popovich, A Ferguson, D McTigue, V Tysseling, J Dulin, E Hollis II, SR Datta, VE Abraira
+    title: The composition of motor recovery revealed by syllable-level behavioral analysis after spinal cord injury
+    journal: Under Review at Nature Portfolio Journals
+    date: February 5, 2026
+    doi: 10.21203/rs.3.rs-8523634/v1
+
+published:
   - authors: TW Chou, M McCourt, M Lindman, I Estevez, BD Buckley, JK Thackray, K Rodriguez, M Nissenbaum, C Mishra, C Atkins, AW Kusnecov, MA Tischfield, BP Daniels
     title: Inapparent maternal ZIKV infection impacts fetal brain development and postnatal behavior
-    journal: Submitted to PLOS Pathogens
-    date: June 11, 2025
+    journal: PLOS Pathogens
+    date: January 12, 2026
+    doi: 10.1371/journal.ppat.1013850
+
+  - authors: A Tucker, A Baltazar, JT Eisdorfer, JK Thackray, K Vo, H Thomas, A Tandon, J Moses, B Singletary, T Gillespie, A Smith, A Pauken, S Nadella, M Pitonak, S Letchuman, J Jang, M Totty, FL Jalufka, M Aceves, AF Adler, S Maren, H Blackmon, DA McCreedy, V Abraira, JN Dulin
+    title: Functional synaptic connectivity of engrafted spinal cord neurons with locomotor circuitry in the injured spinal cord
+    journal: Nature Communications
+    date: November 24, 2025
+    doi: 10.1038/s41467-025-65395-7
+    related:
+      - authors: A Tucker, JT Eisdorfer, JK Thackray, K Vo, H Thomas, A Tandon, J Moses, B Singletary, T Gillespie, A Smith, A Pauken, S Nadella, M Pitonak, S Letchuman, J Jang, M Totty, FL Jalufka, M Aceves, AF Adler, S Maren, H Blackmon, DA McCreedy, VE Abraira, JN Dulin
+        title: Functional synaptic connectivity of engrafted spinal cord neurons with locomotor circuitry in the injured spinal cord
+        journal: bioRxiv
+        date: April 5, 2025
+        doi: 10.1101/2025.04.05.644402
+
+  - authors: C Nasello, GD Yilmaz, LA Poppi, TF Kowalski, KT Ho-Nguyen, J Wu, M Matrongolo, JK Thackray, A Shi, NL Carayannopoulos, N Cheedalla, J McGinnis, J Chen, A Khondker, F Tissir, GA Heiman, JA Tischfield, MA Tischfield
+    title: A Celsr3 Mutation Linked to Tourette Disorder Disrupts Cortical Dendritic Patterning and Striatal Cholinergic Interneuron Excitability
+    journal: International Journal of Molecular Sciences
+    date: October 23, 2025
+    doi: 10.3390/ijms262110307
 
   - authors: J Burdge, A Jhumka, A Khan, S Ogundare, N Baer, S Fulton, A Kaplan, B Bistis, W Foster, JK Thackray, A Toussaint, M Li, YM Morizawa, J Nazarian, L Yadessa, AJ George, A Delinois, W Mayiseni, N Loran, G Yang, DJ Margolis, VE Abraira, I Abdus-Saboor
     title: Remote automated delivery of mechanical stimuli coupled to brain recordings in behaving mice
-    journal: Submitted to eLife
-    date: June 5, 2025
+    journal: eLife
+    date: October 17, 2025
+    doi: 10.7554/eLife.99614.3
     related:
       - authors: J Burdge, A Jhumka, A Khan, S Ogundare, N Baer, S Fulton, A Kaplan, B Bistis, W Foster, JK Thackray, A Toussaint, M Li, YM Morizawa, J Nazarian, L Yadessa, AJ George, A Delinois, W Mayiseni, N Loran, G Yang, DJ Margolis, VE Abraira, I Abdus-Saboor
         title: Remote automated delivery of mechanical stimuli coupled to brain recordings in behaving mice
@@ -23,12 +55,6 @@ in_progress:
         date: June 8, 2025
         doi: 10.1101/2024.05.06.592101
 
-  - authors: NG Simonet, JK Thackray, B Kesner, F Serra, M Espinosa-Alcantud, A Lappala, A Guitart, L Marin, U Weissbein, D Wang, J Castelló, L Rovirosa, L Serrano, BN Vazquez, A Ruiz-Herrera, B Payer, BM Javierre, A Vaquero, JT Lee
-    title: Sirtuin 7 regulates Xa-hyperactivation to balance the X-chromosome against the genome
-    journal: Second round of review at Nature
-    date: February 2024
-
-published:
   - authors: M Gonzalez, MA Gradwell, JK Thackray, KK Temkar, KR Patel, VE Abraira
     title: Using DeepLabCut-Live to probe state dependent neural circuits of behavior with closed-loop optogenetic stimulation
     journal: Journal of Neuroscience Methods
