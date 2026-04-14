@@ -31,8 +31,8 @@ import publication from "./publication.vue";
 import { data } from '../data/publications.data.ts';
 
 const stats = {
-    citations: 1216,
-    "h-index": 13,
+    citations: 1247,
+    "h-index": 14,
     "i10-index": 15,
 };
 </script>
