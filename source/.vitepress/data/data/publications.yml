@@ -7,9 +7,9 @@ in_progress:
     title: "MoSeq-Reports: An Open-Source Platform for Interactive Analysis of MoSeq Models"
     journal: In preparation for submission to eNeuro
 
-  - authors: J Eisdorfer, S Lin*, JK Thackray*, T Theis, A Vivinetto, O Oputa, H Nacht, A Martinez, M Tschang, M Mahmood, A Tucker, C Ruven, S Pusuloori, L Zymoro, M Phu, D Birch, S Kumar, M Schachner, V Sahni, P Popovich, A Ferguson, D McTigue, V Tysseling, J Dulin, E Hollis II, SR Datta, VE Abraira
+  - authors: J Eisdorfer*, S Lin*, JK Thackray*, T Theis, A Vivinetto, O Oputa, H Nacht, A Martinez, M Tschang, M Mahmood, A Tucker, C Ruven, S Pusuloori, L Zymoro, M Phu, D Birch, S Kumar, M Schachner, V Sahni, P Popovich, A Ferguson, D McTigue, V Tysseling, J Dulin, E Hollis II, SR Datta, VE Abraira
     title: The composition of motor recovery revealed by syllable-level behavioral analysis after spinal cord injury
-    journal: Under Review at Nature Portfolio Journals
+    journal: Under Review at Nature Communications
     date: February 5, 2026
     doi: 10.21203/rs.3.rs-8523634/v1
     notes: (* Equal contributions)
