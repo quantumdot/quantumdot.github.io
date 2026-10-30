@@ -31,7 +31,7 @@ import publication from "./publication.vue";
 import { data } from '../data/publications.data.ts';
 
 const stats = {
-    citations: 1367,
+    citations: 1422,
     "h-index": 15,
     "i10-index": 17,
 };
